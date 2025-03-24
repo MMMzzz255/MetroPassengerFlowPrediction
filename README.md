@@ -31,11 +31,10 @@ This project predicts metro passenger flow using an LSTM-based deep learning mod
 - Required data files: `2021.xlsx`, `2022.xlsx`, `2023.xlsx` in project root
 
 Step 1: Train the Mode
+
 This will:
 Merge historical data from Excel files
-
 Train the LSTM model for 50 epochs
-
 Save model weights to lstm_model_weights.pth
 
 Step 2: Start the Server
