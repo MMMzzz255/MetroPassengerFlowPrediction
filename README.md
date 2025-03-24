@@ -35,15 +35,15 @@ This project predicts metro passenger flow using an LSTM-based deep learning mod
 - Required data files: `2021.xlsx`, `2022.xlsx`, `2023.xlsx` in project root
 
 ### Usage
-Step 1: Train the Mode
+****tep 1: Train the Mode
 
 This will:
 Merge historical data from Excel files.
 Train the LSTM model for 50 epochsl.
 Save model weights to lstm_model_weights.pth.
 
-Step 2: Start the Server
+****Step 2: Start the Server
 The Flask API will start at http://127.0.0.1:5000
 
-Step 3: Run the Client
+****Step 3: Run the Client
 
