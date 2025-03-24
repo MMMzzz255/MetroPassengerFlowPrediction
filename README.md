@@ -1,4 +1,3 @@
-# MetroPassengerFlowPrediction
 
 # Metro Passenger Flow Prediction System
 
@@ -17,6 +16,11 @@ This project predicts metro passenger flow using an LSTM-based deep learning mod
 ├── 2022.xlsx         # Historical data
 └── 2023.xlsx         # Historical data
 
+## Group Member
+24045050
+24050344
+24133917
+
 ## Key Libraries
 - PyTorch: LSTM model implementation and training
 - Flask: REST API server for predictions
@@ -30,6 +34,7 @@ This project predicts metro passenger flow using an LSTM-based deep learning mod
 - Python 3.8+
 - Required data files: `2021.xlsx`, `2022.xlsx`, `2023.xlsx` in project root
 
+### Usage
 Step 1: Train the Mode
 
 This will:
