@@ -2,7 +2,7 @@
 # Metro Passenger Flow Prediction System
 
 ## Overview
-This project predicts metro passenger flow using an LSTM-based deep learning model. It employs a client-server architecture:
+This project is an ELEC0088: Software for Network and Services Design 24/25 student assignment, which predicts metro passenger flow using an LSTM-based deep learning model. It employs a client-server architecture:
 - Server: A Flask API that loads a pre-trained LSTM model and provides predictions.
 - Client: A CLI application to collect weather and date inputs, then queries the server for predictions.
 - Model: Trained on historical data (2021-2023) with features like temperature, rainfall, and weekend flags.
